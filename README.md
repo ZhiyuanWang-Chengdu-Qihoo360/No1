@@ -141,19 +141,19 @@ CVE-2018-6525     nProtect AVS V4.0
 
 CVE-2018-6625     WatchDog Anti-Malware
 
-CVE-2018-6626     Micropoint proactive defense
+CVE-2018-6626     Micropoint
 
 CVE-2018-6627     WatchDog Anti-Malware
 
-CVE-2018-6628     Micropoint proactive defense
+CVE-2018-6628     Micropoint
 
-CVE-2018-6629     Micropoint proactive defense
+CVE-2018-6629     Micropoint
 
-CVE-2018-6630     Micropoint proactive defense
+CVE-2018-6630     Micropoint
 
-CVE-2018-6631     Micropoint proactive defense
+CVE-2018-6631     Micropoint
 
-CVE-2018-6632     Micropoint proactive defense
+CVE-2018-6632     Micropoint
 
-CVE-2018-6633     Micropoint proactive defense
+CVE-2018-6633     Micropoint
 
